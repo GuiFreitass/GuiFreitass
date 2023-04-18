@@ -27,6 +27,7 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GuiFreitass}/count.svg" /></p> 
 <br>
+      ![](https://visitor-badge.glitch.me/badge?page_id=GuiFreitass.GuiFreitass)
 </div>
 <a href="https://instagram.com/freitas.gn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <h3 align="left">Languages and Tools:</h3>
