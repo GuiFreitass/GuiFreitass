@@ -31,11 +31,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript  0 mins  ░░░░░░░░░░░░░░░░░░░░░░░░   0 %
-JSON        0 mins  ░░░░░░░░░░░░░░░░░░░░░░░░   0 %
-JavaScript  0 mins  ░░░░░░░░░░░░░░░░░░░░░░░░   0 %
-EJS         0 mins  ░░░░░░░░░░░░░░░░░░░░░░░░   0 %
-Other       0 mins  ░░░░░░░░░░░░░░░░░░░░░░░░   0 %
+TypeScript    ░░░░░░░░░░░░░░░░░░░░░░░░   0 %
+Java          ████████████████████████  100 %
+JavaScript    ░░░░░░░░░░░░░░░░░░░░░░░░   0 %
+EJS           ░░░░░░░░░░░░░░░░░░░░░░░░   0 %
+Other         ░░░░░░░░░░░░░░░░░░░░░░░░   0 %
 ```
 
 <!--END_SECTION:waka-->
@@ -43,5 +43,9 @@ Other       0 mins  ░░░░░░░░░░░░░░░░░░░░
 </div>
 <a href="https://instagram.com/freitas.gn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <h3 align="left">Languages:</h3>
+       
+       
+       
+       
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00DD&height=120&section=footer"/>
