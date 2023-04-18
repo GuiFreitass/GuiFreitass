@@ -6,8 +6,7 @@
 "https://www.comboinfinito.com.br/principal/wp-content/uploads/2022/04/scrat-a-era-do-gelo.jpg">
 <div>
 
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiFreitass&show_icons=true&theme=swift)
-
+       ![Anurag's GitHub stats]
       
       
   -    🔭 Estudante de informática | IFCE ...
