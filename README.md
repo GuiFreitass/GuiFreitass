@@ -2,9 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00DD&height=120&section=header"/>
 <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FFFFFF&size=30&center=true&vCenter=true&width=500&height=200&lines=Vem+sempre+aqui+?+😶‍🌫️🧐;"></a> </p>
 
-<div align="center">
-<img src="https://www.comboinfinito.com.br/principal/wp-content/uploads/2022/04/scrat-a-era-do-gelo.jpg" width="750px" />
-</div>
+
 
 
 
