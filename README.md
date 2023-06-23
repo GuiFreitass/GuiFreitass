@@ -6,10 +6,7 @@
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GuiFreitass&show_icons=true&theme=defalt" alt="GuiFreitass" />
-       <div align="center">  
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiFreitass&layout=compact&hide_border=true&title_color=F8F8FF&text_color=00bfbf&bg_color=000000" />
-</div>
+
        
 
 
