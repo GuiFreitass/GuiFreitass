@@ -13,9 +13,9 @@
 
       
  
-  -    🔭 Estudante de informática | IFCE ...
+- 🔭 Estudante de informática | IFCE ...
 - 🏀 Fã de esportes ...
-- 📚 Fazendo projetos Java
+- 📚 Trabalhando em alguns projetos..
 
 
 
